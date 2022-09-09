@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:jasonodoom-workshop-application-1a5f65b05ed106edf04529a64de9cf57faf77b84
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:jasonodoom-workshop-application-b995937306e693391a1ab5af0dbdeb277ac496ab
         imagePullPolicy: Always
         name: pause
         resources: {}
